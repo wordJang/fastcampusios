@@ -1,22 +1,5 @@
-<<<<<<< HEAD
-
-
-
-# fastcampusios
-
-
-
-
-
-
-
-
-
-
-
-lee jaeseongLee AAAAA입니다
-lee jaesung B랑 달라용 
-=======
-# fastcampusios
-## fastcampusios
->>>>>>> 01abdb5437b184d8821401c5ea1a51842ae3325f
+ㅣ랴ㅣㅓ리ㅏㄴㅁ어리ㅏㄴ얼
+ㄴ라ㅣㅓㅁ니아러
+ㅁㄴ이ㅏ러ㅣㅏㄴ얼
+미ㅏㄴㅇ러ㅏㅣㅓ
+니ㅏㅇㄹ
