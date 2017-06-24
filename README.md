@@ -1,8 +1,8 @@
-<<<<<<< HEAD
-# fastcampusioasss
+<<<<<< HEAD
+# fastcampusios
+## fastcampusios
 sssasdasdasdjdsbkjsdv 
-ddsadsadasdasdnvlsdv
-
+ddsadsadasdasdnvlsd
 
 =======
 # fastcampusios
