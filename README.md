@@ -2,6 +2,12 @@
 <<<<<< HEAD
 =======
 <<<<<<< HEAD
+# fastcampusios
+<<<<<<< HEAD
+
+modified 
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 This is test 
@@ -32,6 +38,7 @@ ffffff!!!!!
 fimuxd 
 저는 박보영입니다. 수정했습니다.
 
+>>>>>>> bf7b777645346eeab0d2aa778ddb0583b86f5b74
 =======
 ## fastcampusios
 <<<<<<< HEAD
