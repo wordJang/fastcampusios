@@ -1,3 +1,6 @@
+<<<<<< HEAD
+<<<<<< HEAD
+=======
 <<<<<<< HEAD
 <<<<<<< HEAD
 
@@ -18,10 +21,11 @@ I ammmmmmmmmmmmmm
 
 grrrrrooottttttttttt
 
-
+ffffff!!!!!
 >>>>>>> 08af3f6f35e9eb6f60e9f4d12b89fd9705e98713
 >>>>>>> 5ea2e4abac3ae5e39a3d8e8764327e60d5f0f700
 =======
+>>>>>>> 5ea2e4abac3ae5e39a3d8e8764327e60d5f0f700
 # fastcampusios
 <<<<<<< HEAD
 
@@ -30,4 +34,13 @@ fimuxd
 
 =======
 ## fastcampusios
+<<<<<<< HEAD
+sssasdasdasdjdsbkjsdv 
+ddsadsadasdasdnvlsd
+
+=======
+# fastcampusios
+## fastcampusios
+=======
+>>>>>>> 5ea2e4abac3ae5e39a3d8e8764327e60d5f0f700
 >>>>>>> 01abdb5437b184d8821401c5ea1a51842ae3325f
