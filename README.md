@@ -1,3 +1,14 @@
+<<<<<<< HEAD
+Hellooooooooooooo
+
+Swifttttttttttttt
+
+I ammmmmmmmmmmmmm
+
+grrrrrooottttttttttt
+
+
+=======
 # fastcampusios
 <<<<<<< HEAD
 
